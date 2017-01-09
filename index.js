@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports = [
+exports.categories = [
   { category_id: '010000', title: 'AA (ALCOHOLICS ANONYMOUS)'},
   { category_id: '010010', title: 'ABDOMINAL SUPPORTS'},
   { category_id: '010030', title: 'ABORIGINAL GOODS'},
