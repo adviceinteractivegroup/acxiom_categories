@@ -1,0 +1,28 @@
+{
+  "name": "acxiom_categories",
+  "version": "1.0.0",
+  "description": "Acxiom categories",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint .",
+    "test": "npm run eslint"
+  },
+  "eslintConfig": {
+    "extends": "google"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adviceinteractivegroup/acxiom_categories.git"
+  },
+  "keywords": [
+    "axciom",
+    "advice",
+    "interactive"
+  ],
+  "author": "Camilo Montoya",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.5.0",
+    "eslint-config-google": "^0.6.0"
+  }
+}
